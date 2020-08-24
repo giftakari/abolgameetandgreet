@@ -1,0 +1,3 @@
+2020.08.25 03:20:41 INFO  started: Metals version 0.9.3 in workspace 'C:\Users\Godsgift Akari\Documents\Programs-Files\HTML_Projects\Tempo' for client vscode.
+2020.08.25 03:20:43 INFO  time: initialize in 2.34s
+2020.08.25 03:20:48 WARN  no build tool detected in workspace 'C:\Users\Godsgift Akari\Documents\Programs-Files\HTML_Projects\Tempo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
